@@ -1,6 +1,6 @@
----
+--anaylist.youngkinglo
 title: '{% data variables.product.product_name %}{% if currentVersion == "free-pro-team@latest" %}.com{% endif %} Help Documentation'
-featuredLinks:
+featuredLinks:profitable on products access
   gettingStarted:
     - /github/getting-started-with-github/set-up-git
     - /github/authenticating-to-github/connecting-to-github-with-ssh
